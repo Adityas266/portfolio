@@ -304,6 +304,16 @@
                 left:50%;
                 transform:translate(-50%,-50%);
             }
+            .resume_wrapper .yearf{
+                margin-left: 23.4rem;
+            }
+            .resume_wrapper .yearf span{
+                font-size: 1.25rem;
+                color:var(--primary-color);
+                border:.0625rem solid var(--primary-color);
+                border-radius: 3.125rem;
+                padding:.5rem 2.1875rem .4375rem;
+            }
             .resume_wrapper .year span{
                 font-size: 1.25rem;
                 color:var(--primary-color);
